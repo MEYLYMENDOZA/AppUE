@@ -78,7 +78,7 @@ fun RegisterScreen(navController: NavController){
                 }
         }, modifier = Modifier.fillMaxWidth()
         ) {
-            Text("Iniciar Sesión")
+            Text("Iniciar Sesión") ////1112
         }
     }
 }
